@@ -23,17 +23,17 @@ iOS 版リリース後に開発に着手の予定です。
 要望
 ----------------------------
 
-[こちら](https://github.com/koher/articles-each/issues?q=is%3Aopen+is%3Aissue+label%3Arequest)より `request` のタグをつけて issue を投稿して下さい。
+[こちら](https://github.com/articles-each/articles-each.github.io/issues?q=is%3Aopen+is%3Aissue+label%3Arequest)より `request` のタグをつけて issue を投稿して下さい。
 
 質問
 ----------------------------
 
-[こちら](https://github.com/koher/articles-each/issues?q=is%3Aopen+is%3Aissue+label%3Aquestion)より `question` のタグをつけて issue を投稿して下さい。
+[こちら](https://github.com/articles-each/articles-each.github.io/issues?q=is%3Aopen+is%3Aissue+label%3Aquestion)より `question` のタグをつけて issue を投稿して下さい。
 
 バグレポート
 ----------------------------
 
-[こちら](https://github.com/koher/articles-each/issues?q=is%3Aopen+is%3Aissue+label%3Abug)より `bug` のタグをつけて issue を投稿して下さい。
+[こちら](https://github.com/articles-each/articles-each.github.io/issues?q=is%3Aopen+is%3Aissue+label%3Abug)より `bug` のタグをつけて issue を投稿して下さい。
 
 作者
 ----------------------------
