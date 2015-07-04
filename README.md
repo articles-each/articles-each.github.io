@@ -1,7 +1,7 @@
 articles.each {
 ============================
 
-_articles.each {_ は __プログラミング関連の記事限定__ のレコメンデーションアプリです。あなたの好みに合わせて、毎日数本の記事を配信します。配信された記事を評価することで、より適切な記事が配信されるようになります。
+[_articles.each {_](http://articles-each.github.io) は __プログラミング関連の記事限定__ のニュースアプリです。あなたの好みに合わせて、毎日数本の記事を配信します。配信された記事を評価することで、より適切な記事が配信されるようになります。
 
 プラットフォーム
 ----------------------------
@@ -14,26 +14,26 @@ _articles.each {_ は __プログラミング関連の記事限定__ のレコ�
 
 ### iOS
 
-現在、 _articles.each {_ iOS 版は、公開 β テスト中です。参加を希望の方は[こちら](mailto:koher@koherent.org)までご連絡下さい。
+現在、 _articles.each {_ iOS 版は、公開 β テスト中です。参加を希望の方は[こちら](mailto:koher@koherent.org?subject=articles%2eeach%20%7b%20%e3%81%ae%ce%b2%e3%83%86%e3%82%b9%e3%83%88%e5%8f%82%e5%8a%a0%e5%b8%8c%e6%9c%9b&body=articles%2eeach%20%7b%20%e3%81%ae%ce%b2%e3%83%86%e3%82%b9%e3%83%88%e3%81%ab%e5%8f%82%e5%8a%a0%e3%82%92%e5%b8%8c%e6%9c%9b%e3%81%97%e3%81%be%e3%81%99%e3%80%82)までご連絡下さい。
 
 ### Android
 
 iOS 版リリース後に開発に着手の予定です。
 
-要望
+ご要望
 ----------------------------
 
-[こちら](https://github.com/articles-each/articles-each.github.io/issues?q=is%3Aopen+is%3Aissue+label%3Arequest)より `request` のタグをつけて issue を投稿して下さい。
+[こちら](https://github.com/articles-each/articles-each.github.io/issues?q=is%3Aissue+label%3Arequest)より `request` のタグをつけて issue を投稿して下さい。
 
-質問
+ご質問
 ----------------------------
 
-[こちら](https://github.com/articles-each/articles-each.github.io/issues?q=is%3Aopen+is%3Aissue+label%3Aquestion)より `question` のタグをつけて issue を投稿して下さい。
+[こちら](https://github.com/articles-each/articles-each.github.io/issues?q=is%3Aissue+label%3Aquestion)より `question` のタグをつけて issue を投稿して下さい。
 
-バグレポート
+バグのご報告
 ----------------------------
 
-[こちら](https://github.com/articles-each/articles-each.github.io/issues?q=is%3Aopen+is%3Aissue+label%3Abug)より `bug` のタグをつけて issue を投稿して下さい。
+[こちら](https://github.com/articles-each/articles-each.github.io/issues?q=is%3Aissue+label%3Abug)より `bug` のタグをつけて issue を投稿して下さい。
 
 作者
 ----------------------------

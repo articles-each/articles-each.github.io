@@ -1,0 +1,27 @@
+@font-face {
+   font-family: Penna;
+   src: url('../fonts/penna.woff') format("woff");
+}
+
+h1 {
+  font-family: Penna;
+  font-weight: bold;
+  padding-top: 10px;
+}
+
+code {
+  color: #000;
+}
+
+.navbar-brand {
+  font-family: Penna;
+  font-weight: bold;
+}
+
+.capture {
+  width: 100%;
+}
+
+.capture img {
+  max-width: 300px;
+}
